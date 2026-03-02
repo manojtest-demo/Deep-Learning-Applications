@@ -1,0 +1,28 @@
+Feature,Mean|SHAP|,Direction
+Duration,0.14219,↓ Lowers Risk
+Checking account,0.12698,↓ Lowers Risk
+Account_strength,0.09738,↓ Lowers Risk
+Credit amount,0.09074,↑ Raises Risk
+Credit_to_age,0.06509,↑ Raises Risk
+Saving accounts,0.03666,↑ Raises Risk
+Housing_rent,0.02215,↑ Raises Risk
+Purpose_radio/TV,0.01908,↓ Lowers Risk
+Job,0.01852,↑ Raises Risk
+Age_group_Young(<25),0.01823,↑ Raises Risk
+Is_high_credit,0.01531,↓ Lowers Risk
+Age,0.01378,↓ Lowers Risk
+Long_duration_flag,0.01337,↓ Lowers Risk
+Purpose_furniture/equipment,0.01306,↑ Raises Risk
+Purpose_car,0.01242,↑ Raises Risk
+Sex,0.01136,↑ Raises Risk
+Housing_free,0.01064,↑ Raises Risk
+Age_group_Senior(50+),0.00888,↑ Raises Risk
+Purpose_business,0.00887,↓ Lowers Risk
+Credit_per_month,0.00845,↓ Lowers Risk
+Age_group_Middle(35-50),0.00821,↑ Raises Risk
+Age_group_Young-adult(25-35),0.00796,↓ Lowers Risk
+Purpose_education,0.00769,↑ Raises Risk
+Housing_own,0.00555,↓ Lowers Risk
+Purpose_domestic appliances,0.00218,↑ Raises Risk
+Purpose_vacation/others,0.00216,↑ Raises Risk
+Purpose_repairs,0.00171,↑ Raises Risk
